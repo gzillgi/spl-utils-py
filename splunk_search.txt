@@ -1,0 +1,4 @@
+#
+# Sample search
+#
+index=* | head 100 | table _time source sourcetype index _raw

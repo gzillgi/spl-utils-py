@@ -1,0 +1,1 @@
+|fields - _*, "date_hour", "date_mday", "date_minute", "date_month", "date_second", "date_wday", "date_year","date_zone", dttm, eventtype, host, id, index, linecount, punct, source, sourcetype, "splunk_server", "splunk_server_group", tag, "tag::eventtype", timeendpos, timestartpos, "virtual_server"
